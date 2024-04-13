@@ -15,7 +15,7 @@ To run this Todo app, follow these steps:
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/Pujan-Dev/Todo_Js
 ```
 2. Navigate to the project directory:
 ```bash 
